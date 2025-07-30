@@ -159,7 +159,7 @@ export default function Home() {
           {/* Quote Block */}
           <blockquote className="border-l-4 border-slate-800 pl-6 my-12 animate-in fade-in slide-in-from-bottom duration-700 delay-900">
             <p className="text-xl sm:text-2xl font-medium text-gray-900 italic leading-relaxed mb-4">
-              "In a world older and more complete than ours they move finished and complete, gifted with extensions of the senses we have lost or never attained, living by voices we shall never hear."
+              &ldquo;In a world older and more complete than ours they move finished and complete, gifted with extensions of the senses we have lost or never attained, living by voices we shall never hear.&rdquo;
             </p>
             <footer className="text-gray-600">
               — Olivia Rhye, Product Designer
